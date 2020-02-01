@@ -12,7 +12,7 @@ You _need_ to install all of these packages from pip :
 - googletrans
 - bs4
 
-and you 'll need PyAudio from here :
+and you'll need PyAudio from here :
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
 download the right version and run this command (replace [xxx] by the right stuff):
