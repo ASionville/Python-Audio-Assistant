@@ -22,6 +22,7 @@ pip install PyAudio‑0.2.11‑cp[xxx].whl
 
 **Anyone that uses this project is asked replace my user key by his/her own one on line 95**
 https://www.wolframalpha.com/
+
 You can try the code with my key but please, don't keep using it
 
 **Usage :**
