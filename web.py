@@ -123,6 +123,7 @@ def search(text=''):
         print(result)
         result = traduire(result, 'en', 'fr')
         assistant_speaks(str(result))
+        
     except Exception as e:
         print("Pas de résultat")
 
